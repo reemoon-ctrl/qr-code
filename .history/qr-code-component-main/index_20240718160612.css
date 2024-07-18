@@ -1,0 +1,54 @@
+*{
+  box
+}
+.content {
+  
+   
+  background-color: antiquewhite;
+  width: 350x;
+  height: 500px;
+  place-self: center;
+  border-radius: 20px;
+    
+
+
+}
+article{
+    /* width: 100%;
+  min-height: 100vh;
+  background:#f8fcfe ;
+  display: grid; */
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+article div{
+  width: 350px;
+  height: 350px;
+}
+
+.qr-code{
+     margin: 20px;
+    width: 70%;
+    border-radius: 20px;
+    /* justify-self: center;
+    align-self: center; */
+}
+.main-p{
+    
+
+}
+.instruction-p{
+
+
+
+}
+.attribution{
+    
+}
+body{
+    /* background-color: #D5E1EF; */
+}
+

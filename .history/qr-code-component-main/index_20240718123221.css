@@ -1,0 +1,46 @@
+.content{
+  
+   
+  background-color: antiquewhite;
+  width: 350x;
+  height: 500px;
+  place-self: center;
+  
+    
+
+
+}
+article{
+    width: 100%;
+  min-height: 100vh;
+  background:#f8fcfe ;
+  display: grid;
+  border-radius: ;
+
+}
+
+
+    
+
+
+.qr-code{
+    margin: 20px;
+    width: 60%;
+    border-radius: 20px;
+}
+.main-p{
+    
+    
+}
+.instruction-p{
+
+
+
+}
+.attribution{
+    
+}
+body{
+    /* background-color: #D5E1EF; */
+}
+

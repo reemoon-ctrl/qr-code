@@ -1,0 +1,18 @@
+.content{
+    display: grid;
+    grid-template-columns: 1440px;
+    justify-content: center;
+    align-items: center;
+    grid
+}
+.qr-code{
+    grid-column: 1/2;
+    
+}
+.main-p{
+    grid-column: 1/2;
+}
+.instruction-p{
+    grid-column: 1/2;
+
+}

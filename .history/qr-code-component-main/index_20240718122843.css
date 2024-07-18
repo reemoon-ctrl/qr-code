@@ -1,0 +1,42 @@
+.content{
+  
+   
+  background-color: antiquewhite;
+  width: 200px;
+  height: 100px;
+  place-self: center;
+    
+
+
+}
+article{
+    width: 100%;
+  min-height: 100vh;
+  background:#f8fcfe ;
+  display: grid;
+}
+
+
+    
+
+
+.qr-code{
+    width: 60%;
+    border-radius: 20px;
+}
+.main-p{
+    
+    
+}
+.instruction-p{
+
+
+
+}
+.attribution{
+    
+}
+body{
+    /* background-color: #D5E1EF; */
+}
+

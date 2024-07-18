@@ -1,0 +1,33 @@
+.content{
+    display: grid;
+    flex-direction: column;
+    
+
+}
+
+
+
+    
+
+
+.qr-code{
+  
+}
+.main-p{
+    
+    
+}
+.instruction-p{
+    grid-column: 2/3;
+    font-weight:400;
+    text-align: center;
+
+
+}
+.attribution{
+    
+}
+body{
+    background-color: #D5E1EF;
+}
+

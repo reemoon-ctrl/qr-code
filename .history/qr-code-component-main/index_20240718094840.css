@@ -1,0 +1,30 @@
+.content{
+    display: grid;
+    grid-template-columns: 300px;
+    justify-content: center;
+    align-items:center;
+    border-radius: 20px;
+    background-color: #;
+}
+.qr-code{
+    grid-column: 1/2;
+    width:288px;
+    height:288px;
+    border-radius: 20px;
+}
+.main-p{
+    grid-column: 1/2;
+    font-size: 22px;
+    text-align: center;
+    /* font */
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.instruction-p{
+    grid-column: 1/2;
+    font-weight:400;
+
+}
+

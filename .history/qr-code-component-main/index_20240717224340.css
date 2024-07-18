@@ -1,0 +1,11 @@
+.content{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+}
+.qr-code{
+    justify-self:center;
+    align-self: center;
+    width
+}

@@ -1,0 +1,17 @@
+.content{
+    display: grid;
+    grid-template-columns: 1440px;
+    justify-content: center;
+    align-items: center;
+}
+.qr-code{
+    grid-column: 1/2;
+    width: 20;
+}
+.main-p{
+    grid-column: 1/2;
+}
+.instruction-p{
+    grid-column: 1/2;
+
+}

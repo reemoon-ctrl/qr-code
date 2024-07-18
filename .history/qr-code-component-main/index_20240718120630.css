@@ -1,0 +1,35 @@
+.content{
+    display: grid;
+    grid-template-columns: 350px;
+    justify-content: center;
+    background-color: #ffffff;
+    
+
+
+}
+}
+
+
+    
+
+
+.qr-code{
+    width: 60%;
+    border-radius: 20px;
+}
+.main-p{
+    
+    
+}
+.instruction-p{
+
+
+
+}
+.attribution{
+    
+}
+body{
+    background-color: #D5E1EF;
+}
+

@@ -1,0 +1,25 @@
+.content{
+    display: grid;
+    grid-template-columns: 1440px;
+    justify-items: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.qr-code{
+    grid-column: 1/2;
+    width:288px;
+    height:288px;
+    border-radius: 20px;
+}
+.main-p{
+    grid-column: 1/2;
+    font-size: 22px;
+    text-align: center;
+    /* font */
+}
+.instruction-p{
+    grid-column: 1/2;
+    font-weight:400;
+
+}
+
